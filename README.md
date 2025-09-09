@@ -11,13 +11,13 @@
 </head>
 <body>
     <ul>
-    <li><h3><a href="https://www.healthline.com/health/kickboxing-benefits">Fitness</a></li>
-    <li><h3><a href="https://www.9round.com/blog/how-kickboxing-builds-strength-and-endurance">Strength</a></li>
-    <li><h3><a href="https://rarebreed.net.au/top-kickboxing-techniques-to-improve-agility-and-speed/">Agility</a></li>
-    <li><h3><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10328201/">Relieves Stress</a></li>
-    <li><h3><a href="https://www.9round.com/blog/4-surprising-ways-kickboxing-helps-mental-health">Mental health</a></li>
-    <li><h3><a href="https://www.fitboxcenter.com/blog/kickboxing-requires-hand-eye-coordination-spatial-awareness-and-a-fast-reaction-time">Coordination</a></li>
-    <li><h3><a href="https://eaglekickboxing.co.uk/blog/twelve-benefits-kickboxing/">Benefits</a></li>
+    <h3><a href="https://www.healthline.com/health/kickboxing-benefits"><li>Fitness</li></a>
+    <h3><a href="https://www.9round.com/blog/how-kickboxing-builds-strength-and-endurance"><li>Strength</li></a>
+    <h3><a href="https://rarebreed.net.au/top-kickboxing-techniques-to-improve-agility-and-speed/"><li><Agility</li></a>
+    <h3><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10328201/"><li></li>Relieves Stress</li></a>
+    <h3><a href="https://www.9round.com/blog/4-surprising-ways-kickboxing-helps-mental-health"><li>Mental health</li></a>
+    <h3><a href="https://www.fitboxcenter.com/blog/kickboxing-requires-hand-eye-coordination-spatial-awareness-and-a-fast-reaction-time"><li>Coordination</li></a>
+    <h3><a href="https://eaglekickboxing.co.uk/blog/twelve-benefits-kickboxing/"><li>Benefits</li></a>
     </ul>
     </h3>
     <br>
